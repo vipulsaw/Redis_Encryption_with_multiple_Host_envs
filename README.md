@@ -140,6 +140,31 @@ python3 python-redis-test.py
 
 <img width="353" height="83" alt="image" src="https://github.com/user-attachments/assets/eefc3708-a881-420d-8104-aa2d1e13cdb5" />
 
+## Requirement 2 ## Running Redis on Multiple Ports
+### Default Configuration
+
+<img width="610" height="146" alt="image" src="https://github.com/user-attachments/assets/abb6033f-b2fb-4e1c-8837-db34a7fd6b96" />
+
+### Copy Conf files and edit port no.
+
+<img width="414" height="70" alt="image" src="https://github.com/user-attachments/assets/1e890044-78c3-49f8-a832-a20f23072f2d" />
+<img width="479" height="204" alt="image" src="https://github.com/user-attachments/assets/c7b2b4a8-633c-458a-8f14-c9df98345fb8" />
+<img width="486" height="152" alt="image" src="https://github.com/user-attachments/assets/8aab3bc1-137e-4e8c-82f6-899e85aa23aa" />
+
+```
+redis-server redis-dev.conf
+```
+```
+redis-server redis-qa.conf
+```
+
+<img width="617" height="188" alt="image" src="https://github.com/user-attachments/assets/156e2546-1dc4-4082-b6f9-b9e72b7f4aa2" />
+
+
+
+
+
+
 
 
 
