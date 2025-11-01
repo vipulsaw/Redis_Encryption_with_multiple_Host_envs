@@ -134,7 +134,12 @@ def connect_redis():
 connect_redis()
 ```
 
+```
+python3 python-redis-test.py
+```
+
 <img width="353" height="83" alt="image" src="https://github.com/user-attachments/assets/eefc3708-a881-420d-8104-aa2d1e13cdb5" />
+
 
 
 
