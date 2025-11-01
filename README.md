@@ -148,7 +148,9 @@ python3 python-redis-test.py
 ### Copy Conf files and edit port no.
 
 <img width="414" height="70" alt="image" src="https://github.com/user-attachments/assets/1e890044-78c3-49f8-a832-a20f23072f2d" />
+
 <img width="479" height="204" alt="image" src="https://github.com/user-attachments/assets/c7b2b4a8-633c-458a-8f14-c9df98345fb8" />
+
 <img width="486" height="152" alt="image" src="https://github.com/user-attachments/assets/8aab3bc1-137e-4e8c-82f6-899e85aa23aa" />
 
 ```
